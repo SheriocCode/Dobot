@@ -4,11 +4,11 @@
  *
  * 本程序用于控制机械臂完成从A点到B点的搬运任务。通过Dobot库函数实现机械臂的运动控制，同时通过控制气泵实现物体的吸附与释放。
  *
- * @author Shieric
+ * @author Sherioc
  * @date 2025年07月03日
  *
  * @version 1.0
- * @copyright Copyright (c) 2025 Shieric. All rights reserved.
+ * @copyright Copyright (c) 2025 Sherioc. All rights reserved.
  *
  * @note 特别说明或注意事项：
  * SPDX-License-Identifier: MIT
